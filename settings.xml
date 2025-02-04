@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+    <addon>DistancePlus</addon>
+    <addon>DressUp</addon>
+    <addon>equipviewer</addon>
+    <addon>GearSwap</addon>
+    <addon>itemizer</addon>
+    <addon>PetTP</addon>
+    <addon>scoreboard</addon>
+    <addon>targetinfo</addon>
+    <addon>TParty</addon>
+    <addon>TreasurePool</addon>
+    <addon>Trusts</addon>
+    <addon>boxdestroyer</addon>
+    <addon>checkparam</addon>
+    <addon>ConsoleBG</addon>
+    <addon>findAll</addon>
+    <addon>organizer</addon>
+    <addon>porter</addon>
+    <addon>battlemod</addon>
+    <addon>Debuffed</addon>
+    <addon>xivbar</addon>
+    <addon>autojoin</addon>
+    <addon>Dimmer</addon>
+    <addon>enemybar</addon>
+    <addon>FastCS</addon>
+    <addon>instaLS</addon>
+    <addon>MyHome</addon>
+    <addon>send</addon>
+    <addon>enternity</addon>
+    <plugin>JaZero</plugin>
+    <plugin>PacketFlow</plugin>
+    <plugin>Bidder</plugin>
+    <plugin>FFXIDB</plugin>
+    <plugin>Timers</plugin>
+    <plugin>Config</plugin>
+  </autoload>
+  <profile name="">
+    <consolekey>Insert</consolekey>
+    <uiscale>1</uiscale>
+    <alwaysenablegamepad>false</alwaysenablegamepad>
+  </profile>
+</settings>

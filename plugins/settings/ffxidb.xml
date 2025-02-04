@@ -1,0 +1,43 @@
+<settings>
+    <global>
+        <X>0</X>
+        <Y>0</Y>
+        <Opacity>75</Opacity>
+        <ShowPC>true</ShowPC>
+        <ColorPC>#FF006FB8</ColorPC>
+        <ShowNPC>true</ShowNPC>
+        <ColorNPC>#FF269D49</ColorNPC>
+        <ShowMob>true</ShowMob>
+        <ColorMob>#FFED1A20</ColorMob>
+        <ShowMarker>true</ShowMarker>
+        <ColorMarker>#FFB646AD</ColorMarker>
+        <ShowTargetLine>true</ShowTargetLine>
+        <Ranges />
+        <Scale>1</Scale>
+        <ZoomDefault>-10</ZoomDefault>
+    </global>
+    <Lynxiara>
+        <X>1630</X>
+        <Y>336</Y>
+    </Lynxiara>
+    <Lildel>
+        <X>1601</X>
+        <Y>358</Y>
+    </Lildel>
+    <Weatherman>
+        <X>1555</X>
+        <Y>312</Y>
+    </Weatherman>
+    <Picodelgallo>
+        <X>1650</X>
+        <Y>375</Y>
+    </Picodelgallo>
+    <Theweatherman>
+        <X>1640</X>
+        <Y>393</Y>
+    </Theweatherman>
+    <Delsolsaverde>
+        <X>1644</X>
+        <Y>368</Y>
+    </Delsolsaverde>
+</settings>

@@ -1,0 +1,46 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <auto>true</auto>
+        <language>English</language>
+        <sets>
+            <bard>
+                <1>Amchuchu</1>
+                <2>Zeid II</2>
+                <3>King of Hearts</3>
+                <4>Yoran-Oran (UC)</4>
+            </bard>
+            <dark>
+                <1>Kupipi</1>
+                <2>Joachim</2>
+                <3>Qultada</3>
+                <4>Amchuchu</4>
+                <5>Kupofried</5>
+            </dark>
+            <default>
+                <1>Valaineral</1>
+                <2>Mihli Aliapoh</2>
+                <3>Tenzen</3>
+                <4>Adelheid</4>
+                <5>Joachim</5>
+            </default>
+            <new>
+                <1>Mihli Aliapoh</1>
+                <2>Cornelia</2>
+                <3>Valaineral</3>
+            </new>
+            <pico>
+                <1>Amchuchu</1>
+                <2>Qultada</2>
+                <3>Koru-Moru</3>
+                <4>Joachim</4>
+                <5>Kupipi</5>
+            </pico>
+        </sets>
+        <wait>
+            <aftercast>3</aftercast>
+            <retr>1.25</retr>
+            <retrall>3</retrall>
+        </wait>
+    </global>
+</settings>
